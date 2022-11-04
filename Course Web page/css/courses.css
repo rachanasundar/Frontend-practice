@@ -1,0 +1,26 @@
+.course, .course2, .course3 {
+    width: 400px;
+    height: 500px; 
+    background: white;
+    border: 1px solid  #252525;
+    position: absolute;
+    top: 300px;
+ 
+  }
+ 
+  .course{
+     left:50px;
+  }
+  .course2{
+     left:500px;
+  }
+  .course3{
+     left: 950px;
+  }
+  h6{
+    font-size: 1em;
+ }
+ footer{
+    top: 900px;
+ }
+ 

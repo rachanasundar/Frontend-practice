@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: lightblue;
+}
+#topbar{
+    background-color: rgb(84, 84, 244);
+    padding: 25px;
+}
+.menu-item{
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 600;
+}
+#list-heading{
+    font-size: 20px;
+padding-left: 24px; ;
+}
+.food-list-item{
+    font-size: 20px;
+}
+
+.food-image{
+    width: 400px;
+    height: 400px;
+}
+.food-wrapper{
+    text-align: center;
+}

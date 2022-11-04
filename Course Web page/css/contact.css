@@ -1,0 +1,13 @@
+form{
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+input{
+    /* display: inline-block; */
+}
+footer{
+    top: 900px;
+}
