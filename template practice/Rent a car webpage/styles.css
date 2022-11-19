@@ -1,0 +1,250 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.login{
+    display: flex;
+    justify-content: space-around;
+
+}
+.btn-visit-tour{
+    border: 1px soild rgb(144, 142, 142) ;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+.heading{
+    padding: 10px;
+    font-size: large;
+}
+.btn-sign-in, .btn-sign-up{
+    border: none;
+    background-color: white;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.content{
+    text-align: center;
+    padding: 10px;
+}
+.text{
+    color: gray;
+}
+
+.cards{
+    padding: 10px;
+    display: flex;
+ justify-content: center;
+ 
+}
+.card-img{
+    width: 400px;
+}
+.card-item{
+    width: 400px;
+    border: 1px solid grey;
+    text-align: center;
+    margin: 0 30px;
+}
+
+.card-text{
+    padding: 20px;
+    line-height: 30px;
+    color: gray;
+}
+
+#icons{
+    margin: 50px 0;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;
+}
+.icon{
+    padding: 0 10px;
+    align-items: baseline;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;   
+    }
+.btn-retro-car{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    width: 250px;
+    margin: 10px;
+
+}
+.btn-view-details{
+    border: 1px solid grey;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    width: 200px;
+    margin:10px;
+    align-items: center;
+}
+.car-img{
+    padding: 50px 100px;
+}
+
+#testimonials{
+    padding: 20px;
+    margin: 20px;
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.comment-row{
+padding: 10px;
+margin: 10px;
+display: flex;
+justify-content: space-around;
+}
+
+.comment{
+    display: flex;
+    padding: 10px;
+    width: 400px;
+}
+
+
+.comment-text{
+    color: gray;
+    line-height: 20px;
+    margin: 10px 0;
+}
+h5{
+    padding: 0;
+    margin: 0;
+}
+.name{
+    padding: 10px 0 0 0;
+    letter-spacing: 3px;
+}
+.insurance{
+    margin: 20px;
+}
+.insurance-row{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.col-3{
+padding: 10px;
+width: 300px;
+}
+h4{
+    text-align: center;
+    padding: 0;
+    margin: 10px 0 20px 0;
+}
+.box{
+    padding: 15px 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.pricing{
+    padding: 10px;
+    display: flex;
+  
+}
+.rate{
+    font-size: 50px;
+    padding: 10px;
+    margin:0;
+}
+.basis li{
+    list-style: none;
+    margin: 0;
+}
+.basis ul{
+    padding: 10px;
+    margin: 0;
+}
+.discription{
+    text-align: center;
+    color: gray;
+}
+
+.advanced,  .adv{
+    background-color: blue;
+    color: white;
+}
+.item{
+    list-style-type:disclosure-closed;
+    color: green;
+    padding: 10px;
+}
+
+ul span {
+    color: gray;
+}
+.disable{
+    list-style: none;
+    opacity: 0.5;
+}
+
+.btn-pack{
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 200px;
+    align-items: center;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.btn-advance{
+    border: none;
+    background-color: orange;
+    color: white
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px ;
+}
+
+.footor-nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 10px;
+    width: 800px;
+}
+
+.about{
+    padding: 20px;
+    margin: 10px;
+    width: 150px;
+}
+
+.nav-list{
+    padding: 30px;
+}
+.nav-list ul, li{
+    padding:  5px 0;
+    list-style: none;
+}
+
+.nav-list span{
+    font-size: large;
+}
